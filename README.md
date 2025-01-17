@@ -1,6 +1,6 @@
 # Literalura
 
-![Imagen representativa del proyecto](/images/LiteraluraApplication.java 17.png)
+![Imagen de ejecucion del proyecto](images/LiteraluraApplication.java 17.png)
 
 ## Descripción
 
